@@ -4,7 +4,7 @@
     mohamed
   </h1>
 
-<img scr = "imog">
+<img src = "imog.jpg">
   
   <head>
   <titel>
