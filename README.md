@@ -5,7 +5,7 @@
   </h1>
 
 <img scr = " imog.jpg">
-<img scr = "chrome://branding/content/firefox-wordmark.svg">
+<a> href ="https://www.google.com" Googel </a>
   
   <head>
   <titel>
