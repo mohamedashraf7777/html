@@ -5,7 +5,7 @@
   </h1>
 
 <img scr = " imog.jpg">
-<a> href ="https://www.google.com" Googel </a>
+<a href ="https://www.google.com"> Googel </a>
   
   <head>
   <titel>
